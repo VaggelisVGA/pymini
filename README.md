@@ -1,2 +1,2 @@
-# pymini
-a proggram with apps!
+# vgmedia
+a Fake social media
